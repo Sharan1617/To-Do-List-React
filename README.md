@@ -1,2 +1,5 @@
-# To-Do-List-React
-A basic ToDo list application created using react on the journey to learn react
+To run the applocation follow the steps :
+In terminal run:
+1.npm install 2. npm rund dev
+
+Enjoy
