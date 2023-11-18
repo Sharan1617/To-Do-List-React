@@ -1,5 +1,8 @@
-To run the applocation follow the steps :
+To run the project follow the steps :
 In terminal run:
-1.npm install 2. npm rund dev
+1. npm install 
+2. npm run dev
+
+If you have not downloaded node, download node first and then proceed with the steps
 
 Enjoy
